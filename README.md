@@ -1,6 +1,6 @@
 # Sample_MLops_code
 
-This project explains an end-to-end machine learning workflow aligned with production MLOps practices.
+This repository demonstrates a simplified, production-style machine learning system implementing core MLOps principles including model training, containerized deployment, and retrieval-augmented pipelines.
 
 ## Components
 
