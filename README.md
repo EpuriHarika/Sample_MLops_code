@@ -13,10 +13,7 @@ This project demonstrates an end-to-end machine learning workflow aligned with p
 - FastAPI-based inference service
 - Containerized using Docker
 
-3. CI/CD
-- GitHub Actions pipeline for automated training
-
-4. RAG Pipeline
+3. RAG Pipeline
 - Vector search using FAISS
 - Retrieval-based context generation
 
