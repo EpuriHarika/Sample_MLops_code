@@ -1,6 +1,6 @@
 # Sample_MLops_code
 
-This project demonstrates an end-to-end machine learning workflow aligned with production MLOps practices.
+This project explains an end-to-end machine learning workflow aligned with production MLOps practices.
 
 ## Components
 
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end machine learning workflow aligned with p
 ## How to Run
 
 ### Train model
-python pipelines/train.py
+python train.py
 
 ### Run API
 uvicorn app.main:app --reload
